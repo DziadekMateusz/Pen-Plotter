@@ -1,0 +1,22 @@
+Hardware used in this project:
+
+Raspberry Pi 5:
+https://www.raspberrypi.com/products/raspberry-pi-5/
+
+Arduino Uno R3:
+https://docs.arduino.cc/hardware/uno-rev3/
+
+Nema 17 Stepper Motors:
+https://botland.store/stepper-motors/3610-stepper-motor-jk42hs40-0504-200-stepsrotations-12v05a043nm-5904422332013.html
+
+Micro Servo MG-90S:
+https://botland.store/micro-servos/20435-servo-mg-90s-micro-180-degrees-metal-gear-5904422380915.html
+
+Pololu 3097 TB67S249FTG Stepper Motor Drivers:
+https://www.pololu.com/product/3097/specs
+
+Protoneer CNC Shield V3:
+https://botland.store/arduino-shield-motor-controllers/6186-cnc-shield-3d-printer-driver-shield-for-arduino-5904422359690.html
+
+Waveshare 11303 7inch Capacitive Touch Screen LCD (C):
+https://www.waveshare.com/7inch-hdmi-lcd-c-with-bicolor-case.htm
